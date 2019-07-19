@@ -3,22 +3,13 @@
   "projectName": "Test-all-contributors",
   "imageSize": 100,
   "repoType": "github",
-  "commit": false,
+  "commit": true,
   "contributorsPerLine": 6,
   "files": [
     "README.md"
   ],
   "repoHost": "https://github.com",
   "contributors": [
-    {
-      "login": "Sanji515",
-      "name": "Sanjeev Singh",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/32524438?v=4",
-      "profile": "https://sanji515.github.io/",
-      "contributions": [
-        "maintenance"
-      ]
-    },
     {
       "login": "RishabhJain2018",
       "name": "Rishabh Jain",
