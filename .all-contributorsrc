@@ -10,5 +10,15 @@
   ],
   "repoHost": "https://github.com",
   "commitConvention": "angular",
-  "contributors": []
+  "contributors": [
+    {
+      "login": "Sanji515",
+      "name": "Sanjeev Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/32524438?v=4",
+      "profile": "https://sanji515.github.io/",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ]
 }
