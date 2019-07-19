@@ -1,0 +1,14 @@
+{
+  "projectOwner": "Sanji515",
+  "projectName": "Test-all-contributors",
+  "imageSize": 100,
+  "repoType": "github",
+  "commit": false,
+  "contributorsPerLine": 6,
+  "files": [
+    "README.md"
+  ],
+  "repoHost": "https://github.com",
+  "commitConvention": "angular",
+  "contributors": []
+}
