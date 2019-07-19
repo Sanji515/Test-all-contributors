@@ -3,7 +3,7 @@
   "projectName": "Test-all-contributors",
   "imageSize": 100,
   "repoType": "github",
-  "commit": false,
+  "commit": true,
   "contributorsPerLine": 6,
   "files": [
     "README.md"
